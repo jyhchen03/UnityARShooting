@@ -1,2 +1,2 @@
 # ARShootingUnity
-![goose_model](goose_model.png)
+![goose_model](screenshots/goose_model.png)
