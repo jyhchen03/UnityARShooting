@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4f6a28458b80fa4c9edd04a41c93404
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - webCameraPlane: {instanceID: 0}
+  - fireButton: {instanceID: 0}
+  - bullet: {fileID: 3007009295022526705, guid: 49494073c2f9320449018ab45cb7b448,
+      type: 3}
+  - geese: {fileID: 6610889931695326753, guid: 94ac30e2f2bf9d847b8ce21cb8f24f09, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
