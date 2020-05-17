@@ -1,5 +1,5 @@
 # ARShootingUnity
-_Development in progress._ AR Shooting Game with cross-platform compatibility with PC and mobile devices
+_Development in progress._ AR shooting game with cross-platform compatibility with PC and mobile devices
 
 ![goose_model](screenshots/goose_bullet.png)
 
