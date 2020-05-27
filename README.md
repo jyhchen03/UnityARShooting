@@ -3,6 +3,11 @@ _Development in progress._ AR game with cross-platform compatibility with PC and
 
 ![goose_model](screenshots/goose_bullet.png)
 
+Features:
+- Button to shoot bullets
+- System camera for AR
+- Enemy movement
+
 Tools used:
 - C#
 - Unity
