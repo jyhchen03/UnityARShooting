@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class WebCamScript : MonoBehaviour
 {   
-    // Start is called before the first frame update
+    // Start is called before the first frame updates
     public GameObject webCameraPlane;
     public Button fireButton;
     public GameObject bullet;
@@ -29,7 +29,8 @@ public class WebCamScript : MonoBehaviour
         goose.SpawnGoose(); //randomly spawn geese
     }
 
-    void SpawnGoose() //TODO spawn goose random xy pos, fix z rotation
+    void SpawnGoose() //TODO spawn goose in a random x-y position
+					  //     and fix a set z-rotation
     {
         for (int i = 0; i < 4; i++)
         {
@@ -55,7 +56,7 @@ public class WebCamScript : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    // Update is called once per frames
     void Update()
     {
         Quaternion cameraRotation = new Quaternion(Input.gyro.attitude.x, Input.gyro.attitude.y, -Input.gyro.attitude.z, -Input.gyro.attitude.w);

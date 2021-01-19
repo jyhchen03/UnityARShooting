@@ -11,13 +11,13 @@ public class CollisionScript : MonoBehaviour
     public GameObject goose4;
     public GameObject explosion;
 
-    // Start is called before the first frame update
+    // Start is called before the first frame updates
     void Start()
     {
 
     }
 
-    // Update is called once per frame
+    // Update is called once per frames
     void Update()
     {
 
