@@ -6,7 +6,7 @@ _Development in progress._ AR game with cross-platform compatibility with PC and
 Features:
 - Button to shoot bullets
 - System camera for AR
-- Enemy movement
+- "Enemy" movement and generation
 
 Tools used:
 - C#
